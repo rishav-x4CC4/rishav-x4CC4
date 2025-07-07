@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rishavkumar.io">
-    <img src="" alt="Header" />
+    <img src="https://github.com/rishav-x4CC4/rishav-x4CC4/blob/main/RishavKumar.gif" alt="Header" />
   </a>
 </div>
 
