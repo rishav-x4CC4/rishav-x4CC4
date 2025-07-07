@@ -1,4 +1,9 @@
-[![Header](https://github.com/rishav-x4CC4/rishav-x4CC4/blob/main/PROGRAMMER.gif)](https://rishavkumar.io)
+<div align="center">
+  <a href="https://rishavkumar.io">
+    <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Header" />
+  </a>
+</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=16F7FF&background=00000000&center=true&vCenter=true&width=800&lines=Rishav+Kumar+%7C+Game+Dev+%7C+MERN+Stack+%7C+Cybersecurity;Computer+Science+Student+@+UPES+Dehradun;Building+cool+stuff+one+line+at+a+time." alt="Typing SVG" />
