@@ -17,10 +17,22 @@ A Computer Science undergrad at UPES Dehradun (Batch 2028). I'm passionate about
 - 🌱 I’m currently learning Unreal Engine and the MERN stack to level up both my game development and web dev skills  
 - 💬 Ask me about game design, backend dev, REST APIs, and clean full-stack architecture  
 - 📫 How to reach me: **rishav195247004511@outlook.com**  
- 
+ <div align="center">
+   <p align="center">
+      <a href="https://user-badge.committers.top/kenya/rishav-x4CC4)">
+         <img src="https://user-badge.committers.top/kenya/CHEGEBB.svg" alt="committers.top badge" />
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=rishav-x4CC4&label=Profile%20views&color=0e75b6&style=flat" alt="AyushGorlawar" />
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/rishav-x4CC4">
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/rishav-x4CC4">
+       
+   </p>
+</div>
  
 
----
+ <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
 
 ### 🧰 My Toolbox  
 🕹 Game Dev: Unity, C#, Unreal Engine  
@@ -28,7 +40,7 @@ A Computer Science undergrad at UPES Dehradun (Batch 2028). I'm passionate about
 🛡 Cybersecurity: Linux, Networking Basics, OWASP  
 🧪 Others: Git, VS Code, Figma, Postman  
 
----
+
 
 ### ⚙️ Tech Stack  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -41,8 +53,9 @@ A Computer Science undergrad at UPES Dehradun (Batch 2028). I'm passionate about
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
  
-
----
+ <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
 
 ### 📈 GitHub Stats  
 <div align="center">
@@ -55,8 +68,6 @@ A Computer Science undergrad at UPES Dehradun (Batch 2028). I'm passionate about
 
 </div>
 
----
-
 
 <div align="center">
 
@@ -68,7 +79,9 @@ A Computer Science undergrad at UPES Dehradun (Batch 2028). I'm passionate about
 ### ✍️ Random Dev Quote  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 
----
+ <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
  
 
 ### 🤝 Connect With Me  
