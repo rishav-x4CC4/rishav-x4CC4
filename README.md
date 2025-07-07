@@ -94,7 +94,7 @@ A Computer Science undergrad at UPES Dehradun (Batch 2028). I'm passionate about
   <a href="http://www.linkedin.com/in/rishav-x4cc4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rishavkumar.dev@gmail.com" target="_blank">
+  <a href="mailto:rishav195247004511@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://g.dev/rishavkumar" target="_blank">
